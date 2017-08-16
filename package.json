@@ -1,11 +1,11 @@
 {
-  "name": "swagger-repo",
-  "version": "1.4.2",
+  "name": "@jlegrone/swagger-repo",
+  "version": "2.0.0",
   "description": "CLI tool to help you manage your OpenAPI(fka Swagger) repo.",
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Rebilly/swagger-repo.git"
+    "url": "https://github.com/jlegrone/swagger-repo.git"
   },
   "keywords": [
     "API",
@@ -17,9 +17,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Rebilly/swagger-repo/issues"
+    "url": "https://github.com/jlegrone/swagger-repo/issues"
   },
-  "homepage": "https://github.com/Rebilly/swagger-repo",
+  "homepage": "https://github.com/jlegrone/swagger-repo",
   "bin": {
     "swagger-repo": "./bin/swagger-repo.js"
   },
